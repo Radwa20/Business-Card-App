@@ -1,5 +1,4 @@
 import 'package:business_card_app/constants.dart';
-import 'package:business_card_app/widgets/icon_container_with_color.dart';
 import 'package:business_card_app/widgets/information_widget.dart';
 import 'package:business_card_app/widgets/text_style_font.dart';
 import 'package:flutter/material.dart';
