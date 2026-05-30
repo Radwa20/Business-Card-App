@@ -44,7 +44,7 @@ class BusinessMainScreen extends StatelessWidget{
               Padding(
                 padding: const EdgeInsets.symmetric(vertical: 16),
                 child: InformationWidget(
-                  text: "Phone: +20 010 2050 5712",
+                  text: "Phone: +20 010 0000 0000",
                   fSize: 15,
                   fWeight: FontWeight.w600,
                   iconName: Icons.phone_android_rounded,
